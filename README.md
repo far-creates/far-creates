@@ -1,29 +1,10 @@
 ## Hi there, This is Farzaneh 👋
 
 ### 👩‍💻 A Little About Me:
-- Took my first steps in tech with the MERN stack and Python.
-- Starting fresh—exploring different areas to see what clicks.
-- Working in sales and marketing.
-- Focused on solving real problems in my industry through tech.
-
-### 🧪 Experiments in Progress:
-- Front-end Development 
-- Data Science
-- UI Design
-
-### 💪 Confident with:
-- HTML
-- CSS
-- Tailwind
-- Bootstrap
-- Ant Design
-
-### 🌱 Working on:
-- Python
-- JavaScript
-- TypeScript
-- React.Js
-- SolidJs
+Since the first lines of **HTML** and **CSS** syntax transformed into vibrant shapes on my browser screen, I have been in love with the entire concept of front-end development. No matter how many times it happens, I still enjoy the whole process of breaking the screen into grids, columns, and rows, and organizing them; it's like a game I never tire of.
+Every time I call a styling class from CSS frameworks like **Tailwind, Bootstrap, or Ant Design** to style my web pages, I feel like a conductor leading an orchestra, doing my best to create the perfect composition.
+I work with **React.js** and **Next.js** for development, and I enjoy breaking down projects component by component and building them up incrementally. Beyond that, nothing excites me as much as calling APIs, receiving server responses, and rendering the results. Making these systems work together is what truly fills me with energy.
+I bring genuine passion and persistence to every project, and I'm excited to contribute my skills and enthusiasm to a team that values continuous growth.
 
 ### 🏆 Rookie Trophies:
 - [SWAPI](https://swapi2024.netlify.app/) 
