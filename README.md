@@ -2,8 +2,11 @@
 
 ### 👩‍💻 A Little About Me:
 Since the first lines of **HTML** and **CSS** syntax transformed into vibrant shapes on my browser screen, I have been in love with the entire concept of front-end development. No matter how many times it happens, I still enjoy the whole process of breaking the screen into grids, columns, and rows, and organizing them; it's like a game I never tire of.
+
 Every time I call a styling class from CSS frameworks like **Tailwind, Bootstrap, or Ant Design** to style my web pages, I feel like a conductor leading an orchestra, doing my best to create the perfect composition.
+
 I work with **React.js** and **Next.js** for development, and I enjoy breaking down projects component by component and building them up incrementally. Beyond that, nothing excites me as much as calling APIs, receiving server responses, and rendering the results. Making these systems work together is what truly fills me with energy.
+
 I bring genuine passion and persistence to every project, and I'm excited to contribute my skills and enthusiasm to a team that values continuous growth.
 
 ### 🏆 Rookie Trophies:
