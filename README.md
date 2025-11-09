@@ -1,4 +1,4 @@
-## Hi there, This is Farzaneh 👋
+## Hi there, This is Far 👋
 
 ### 👩‍💻 A Little About Me:
 Since the first lines of **HTML** and **CSS** syntax transformed into vibrant shapes on my browser screen, I have been in love with the entire concept of front-end development. No matter how many times it happens, I still enjoy the whole process of breaking the screen into grids, columns, and rows, and organizing them; it's like a game I never tire of.
@@ -9,7 +9,7 @@ I work with **React.js** and **Next.js** for development, and I enjoy breaking d
 
 I bring genuine passion and persistence to every project, and I'm excited to contribute my skills and enthusiasm to a team that values continuous growth.
 
-### 🏆 Rookie Trophies:
+### 🏆 My projects so far:
 - [SWAPI](https://swapi2024.netlify.app/) 
 - [The Bars](https://thebars.netlify.app/)
 - [Link Arkitectur](https://linkarkitectur.netlify.app/)
