@@ -24,7 +24,7 @@ The Bars was a small SolidJS project I built to get comfortable with state manag
 
 - [My Writing Portfolio](https://my-writing-portfolio-far.vercel.app/)
 
-One of my early projects as a copywriter was building my own writing portfolio. It didn’t use React — just plain HTML, CSS, and Bootstrap — but it taught me a lot. It was my first real experience working with responsive layouts and getting them to behave properly across different screen sizes. Even though the project is simple, I’m still proud of it because it helped me understand the fundamentals of structuring a clean, readable site from scratch.
+One of my early projects as a copywriter was building my own writing portfolio. It didn’t use React; it just used plain HTML, CSS, and Bootstrap. But it taught me a lot. It was my first real experience working with responsive layouts and getting them to behave properly across different screen sizes. Even though the project is simple, I’m still proud of it because it helped me understand the fundamentals of structuring a clean, readable site from scratch.
 
 - [This is Dobby](https://this-is-dobby.vercel.app/)
 
